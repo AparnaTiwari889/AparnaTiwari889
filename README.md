@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there  I am Aparna Tiwari👋</h1>
+<h1 align="center">Hey there  I am Aparna Tiwari👋</h1>
 
 ###
 
@@ -26,8 +26,7 @@
 ###
 
 <p align="left">👋 Hi, I'm Aparna Tiwari!<br><br>🔭 I’m currently working as a BCA graduate and advancing my skills through a course from Prepleaf by Masai.<br>📚 I’m delving into various tech stacks and programming languages to enhance my development skills.<br>🌍 I'm based in Ayodhya, India.<br>⚡ In my free time, I enjoy exploring new technologies, reading tech blogs, and contributing to open source projects.<br>Feel free to connect with me!</p>
-<h3>Visit My Portfolio<a href='https://portfolio-aparna.vercel.app/'/>
-</h3>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
