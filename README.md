@@ -27,7 +27,7 @@
 
 <p align="left">👋 Hi, I'm Aparna Tiwari!<br><br>🔭 I’m currently working as a BCA graduate and advancing my skills through a course from Prepleaf by Masai.<br>📚 I’m delving into various tech stacks and programming languages to enhance my development skills.<br>🌍 I'm based in Ayodhya, India.<br>⚡ In my free time, I enjoy exploring new technologies, reading tech blogs, and contributing to open source projects.<br>Feel free to connect with me!</p>
 - 👨‍💻 My Portfolio:https://kaleidoscopic-raindrop-7999a6.netlify.app/<br>
-- 👨‍💻 My Resume:https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a38e89403a9ded28b7e7dc
+- 👨‍💻 My Resume:https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8f8db403a9ded28c2f0ee
 
 ###
 
